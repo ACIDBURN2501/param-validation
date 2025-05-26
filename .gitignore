@@ -1,0 +1,33 @@
+# Build directories
+/build*/
+
+# Meson intermediate files
+/meson-logs/
+/meson-private/
+
+# Compiled libraries and objects
+*.o
+*.a
+*.so
+*.so.*
+
+# Editor/IDE files
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/
+.idea/
+
+# Test logs
+/testlog.txt
+
+# Clang-format backup files
+*.orig
+
+# Doxygen
+/docs/html/
+/docs/latex/
+
+#clang-format
+.cache/
