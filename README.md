@@ -1,5 +1,7 @@
 # param-validation
 
+[![Run Unit Tests](https://github.com/ACIDBURN2501/param-validation/actions/workflows/test.yml/badge.svg)](https://github.com/ACIDBURN2501/param-validation/actions/workflows/test.yml)
+
 Reusable, lightweight C11 module for validating numeric parameters against min/max range constraints.
 
 ## Features
